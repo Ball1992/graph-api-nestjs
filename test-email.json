@@ -1,0 +1,6 @@
+{
+  "to": ["test@example.com"],
+  "subject": "Test Email from NestJS Graph API",
+  "body": "สวัสดีครับ\n\nนี่คือข้อความทดสอบจาก NestJS และ Microsoft Graph API\n\nขอบคุณครับ",
+  "isHtml": false
+}
